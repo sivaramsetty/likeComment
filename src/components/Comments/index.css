@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.con {
+  width: 100%;
+  height: 100vh;
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.subCon {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.itemCon {
+  width: 80%;
+}

@@ -1,0 +1,62 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.commentItemCon {
+  padding: 20px;
+  margin: 20px;
+}
+li {
+  list-style: none;
+}
+.nameTime {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.likedImgCon {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.imgPara {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+}
+
+button {
+  background-color: transparent;
+  cursor: pointer;
+}
+.btn {
+  border: none;
+}
